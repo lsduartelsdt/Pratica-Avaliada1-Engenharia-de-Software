@@ -39,7 +39,7 @@ Colunas:
 - API de projetos
 - Listagem de usuários
 
-(Link do GitHub Projects aqui)
+(https://github.com/users/lsduartelsdt/projects/1/views/1)
 
 ---
 
